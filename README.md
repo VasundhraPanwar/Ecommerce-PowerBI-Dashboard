@@ -31,6 +31,3 @@ Contains:
 
 ---
 
-
-[Your Name]  
-[Your LinkedIn Profile]
